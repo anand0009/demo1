@@ -1,0 +1,731 @@
+## intent: rooms_and_suites
+- rooms and suites
+- Rooms and Suites
+
+## intent: faqs
+- faqs
+- FAQS
+- does the hotel have a restaurant?
+- do you have a restaurant?
+- is there a restaurant?
+- is there a restaurant in the hotel?
+- tell me about the restaurant
+- can you tell me about any restaurant in the hotel?
+- are there restaurants in the hotel?
+- number of restaurants?
+- can i find restaurants here?
+- i heard there is a hotelt also
+- inform me about the hotel
+- where is hotel?
+- i'm looking for a place to eat
+- I want to grab lunch
+- I am searching for a dinner spot
+- I am looking for some hotel in Delhi.
+- I am looking for some hotel in Bangalore
+- show me chinese hotel
+- show me chines hotel in the New Delhi
+- show me a mexican place in the centre
+- i am looking for an indian spot called olaolaolaolaolaola
+- search for hotel
+- Please find me a south-indian hotel
+- what are your check-in timings?
+- check in timings?
+- check in time
+- what is the check-in time?
+- what is the check in time?
+- can you tell me your check-in timings?
+- can you tell me your check in timings?
+- i would like to know your check-in timings
+- tell your check-in timings
+- when can I check in?
+- check-in?
+- could you tell me when to check-in?
+- when check in?
+- i want to check in. can you tell me check in timing?
+- what are your check-out timings?
+- check out timings?
+- check out time
+- what is the check-in time?
+- what is the check in time?
+- can you tell me your check-out timings?
+- can you tell me your check out timings?
+- i would like to know your check-out timings
+- tell your check-out timings
+- when can I check out?
+- check-out?
+- could you tell me when to check-out?
+- when check in?
+- i want to check out. can you tell me check out timings?
+- i want to cancel the reservation that i made
+- cancel my reservation that i made earlier
+- i would like to cancel my reservation
+- cancel my reservation
+- can you cancel my reservation?
+- how do i cancel my reservation?
+- can i cancel my reservation?
+- please cancel my reservation
+- i request you to cancel the reservation that i made
+- it would be great if you could cancel my reservation
+- im hungry, looking for some hotels
+
+## intent: halls
+- halls
+- Halls
+- HALLS
+- Can you tell me where in the hotel my room will be located
+
+## intent: culinary_delights
+- culinary delights
+- Culinary Delights
+- CULINARY DELIGTHS
+- I'm gonna need help finding a indian restaurant
+- a restaurant for me to eat mexican
+- A place to eat chinase
+- a south-indian restaurant
+- I am hungry, find me some place to go eat italian 
+- I'm hungry. Looking out for some good restaurants
+- can u send me the whole menu of BBQ delight with price????
+- I'm gonna need help finding a indian restaurant
+- I want to eat
+- in Gurgaon
+- South Indian
+- North Indian
+- Italian
+- Chinese
+- chinese
+
+## intent: book
+- Book Now
+- book now
+- Book
+- book
+- i want a book a room for my stay
+- I want to book a room
+- i want to book a room
+- i would like to book a room
+- need a room
+- can you book a room?
+- book room
+- book the room
+- book a room
+- Book a Room
+- Book room for my stay
+- book rooms
+- book the rooms
+- book room
+- book the room
+- book a room
+- Book a Room
+- Book room
+- book rooms
+- book the rooms
+- i want to book (2)[number] rooms for my stay
+- i would like to book 1 room
+- I want to book 2 rooms
+- book 2 rooms for me
+- need 1 room
+- book 1 room
+- book 2 rooms
+- need 2 rooms to book
+- books room
+- books the room
+
+## intent: describe
+- Describe
+- describe
+- Know More
+
+## intent: room_info
+- [Deluxe Room]{"entity":"room_types","value":"deluxe room"}
+- [deluxe room](room_types)
+- I am looking for [deluxe room](room_types)
+- I am seeking for [Deluxe Room]{"entity":"room_types","value":"deluxe room"}
+- [heritage deluxe room](room_types)
+- [Heritage Deluxe room]{"entity":"room_types","value":"heritage deluxe room"}
+- I am looking for [heritage deluxe room](room_types)
+- I need [Heritage Deluxe room]{"entity":"room_types","value":"heritage deluxe room"}
+- [Club Shangri-La Executive]{"entity":"room_types","value":"club shangri-la executive"}
+- [club shangre-la executive](room_types)
+- I am looking for [club shangre-la executive](room_types)
+- I am seeking for [Club Shangri-La Executive]{"entity":"room_types","value":"club shangri-la executive"}
+- [The Junior Suites]{"entity":"room_types","value":"the junior suites"}
+- [the junior suites](room_types)
+- I am looking for [the junior suites](room_types)
+- I am seeking for [The Junior Suites]{"entity":"room_types","value":"the junior suites"}
+- [The Business Suites]{"entity":"room_types","value":"the business suites"}
+- [the business suites](room_types)
+- I am looking for [the business suites](room_types)
+- I need [The Business Suites]{"entity":"room_types","value":"the business suites"} 
+- [the presidential suites](room_types)
+- [The Presidential Suites]{"entity":"room_types","value":"the presidential suites"}
+- I am looking for [The Presidential Suites]{"entity":"room_types","value":"the presidential suites"}
+- I need [the presidential suites](room_types)
+- There are [2](number_adult) adults
+- [4](number_adult) adults please
+- just [3](number_adult) adults 
+- [5](number_adult) adults
+- [6](number_child) please
+- [1](number_child) childrens are coming
+- [1](number_adult) adults are coming
+- There are [2](number_adult) adults
+- There are [2](number_child) childrens
+- [4](number_child) children please
+- just [3](number_adult) adults 
+- [5](number_child) childrens
+- [7](number_child) please
+- [8](number_adult) please
+- We have [3](number_child) Childrens
+- I am coming with [3](number_child) children
+
+## intent:name
+ - [Siddhartha Shrestha](person)
+ - [siddhartha shrestha](person)
+ - [Ram Bahadur Shrerpa](person)
+ - [shyam singh](person)
+ - [Gopal Khatri](person)
+ - [Sagar Tamang](person)
+ - [sagar kafle](person)
+ - [Charles Darwin](person)
+ - [Mitchel Johnson](person)
+ - [Stephen Hawking](person)
+ - [Diego maradona](person)
+ - [pele](person)
+ - [Bam dev gautam](person)
+ - [David Beckham](person)
+ - [Sanjay Khadka](person)
+ - [pema tamang](person)
+ - [suraj singh thakuri](person)
+ 
+
+## intent: view_details
+- View Details
+- view details
+- VIEW DETAILS
+
+## intent: book_room
+- BOOK ROOM
+- Book Room
+- book room
+
+## intent: deluxe_room
+- Deluxe room
+- deluxe room
+- deluxe rooms
+- Deluxe Room
+- Deluxe Rooms
+- deluxe
+- delux
+- i want delux room
+- i want some delux room
+- i want deluxe room
+- you have deluxe room
+- can you suggest some deluxe room
+- 4 deluxe room
+- best deluxe room
+- mind blowing deluxe room
+- you have deluxe room
+- better deluxe room
+- get me deluxe room
+- get some deluxe rooms
+- world best deluxe room
+- having some delyxe room
+- deluxe room best
+- good deluxe 
+- good Deluxe roo
+- room for deluxe
+
+## intent: heritage_deluxe_room
+- heritage deluxe room
+- Heritage Deluxe room
+- heritage deluxe rooms
+- Heritage deluxe rooms
+- i want heritage delux room
+- i want heritage some delux room
+- i want heritage deluxe room
+- you have heritage deluxe room
+- can you  heritage suggest some deluxe room
+- 4 deluxe heritage room
+- best  heritage deluxe room
+- mind heritage blowing deluxe room
+- you heritage have deluxe room
+- better  heritage deluxe room
+- get me heritage deluxe room
+- get some heritage deluxe rooms
+- world best heritage  deluxe room
+- having some heritage delyxe room
+- heritage deluxe room best
+- good deluxe heritage
+- good heritage Deluxe roo
+- room for deluxe heritage
+
+## intent: club_shangre_la_executive
+- club shangre-la executive
+- Club Shangre-la Executive
+- Club Shangre-La Executive
+- i want club shangrela executive room
+- i want club shangrela executive room
+- i want some - i want club shangre la executive  room
+- i want club shangre la executive room
+- you have club shangre la executive
+- can you suggest some club shangre la executive
+- 4 deluxe room club shangre la executive
+- best club shangre la executive
+- mind blowing club shangre la executive
+- you have club shangre la executive
+- better club shangre la executive
+- get me club shangre la executive
+- get some club shangre la executive
+- world best club shangre la executive
+- having some club shangre la executive
+- club shangre la executive room best
+- good club shangre la executive
+- good club shangre la executive
+- room for club shangre la executive
+
+## intent: the_junior_suites
+- the junior suites
+- The Junior Suites
+- The junior suites
+- i want the junior suites
+- i want some the junior suites
+- i want the junior suites
+- you have the junior suites
+- can you suggest some the junior suites
+- 4 the junior suites
+- best deluxe room the junior suites
+- mind blowing d the junior suites
+- you have the junior suites
+- better the junior suites
+- get me the junior suites
+- get some the junior suites
+- world best the junior suites
+- having some the junior suites
+- the junior suites best
+- good the junior suites
+- good the junior suites
+- room for the junior suites
+
+## intent: the_business_suites
+- the business suites
+- The Business Suites
+- The business suites
+- i want the business suites
+- i want some the business suites
+- i want the business suites
+- you have the business suites
+- can you suggest some the business suites
+- 4 the business suites
+- best the business suites
+- mind blowing the business suites
+- you have the business suites
+- better the business suites
+- get me the business suites
+- get some the business suites
+- world best the business suites
+- having some the business suites
+- the business suites best
+- good the business suites 
+- good the business suites
+- room for the business suites
+
+## intent: the_presidential_suites
+- the presidential suites
+- The Presidential Suites
+- The presidential suites
+- i want the presidential suites
+- i want some the presidential suites
+- i want the presidential suites
+- you have the presidential suites
+- can you suggest some the presidential suites
+- 4 the presidential suites
+- best the presidential suites
+- mind blowing the presidential suites
+- you have the presidential suites
+- better the presidential suites
+- get methe presidential suites
+- get some the presidential suitess
+- world best the presidential suites
+- having some the presidential suites
+- the presidential suites room best
+- good the presidential suites
+- good the presidential suites
+- room for the presidential suites
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- ye
+- uh yes
+- let's do it
+- yeah
+- uh yes
+- um yes
+- yes knocking
+- that's correct
+- yes yes
+- right
+- yea
+- yes right
+- yes and i dont care
+- right on
+- i love that
+- haa
+- ho
+- barobar
+- okay
+- good
+- done
+- so
+- tikh hai
+- hao
+- accept
+- ok
+- okay
+- sure
+- fine
+- ofcourse
+- it's okay
+- it is okay
+- it is fine
+- it's fine
+- i agree
+- agree
+- yes i agree
+- yes it is
+- thats okay
+- yup
+- ya
+- k
+- ok sure
+- ok yes
+- yes indeed
+- exactly
+- correct
+- do it
+- yea
+- yeah
+- okie
+- okie okie
+- true
+- i accept
+- I accept
+- ok i accept
+- i changed my mind. I want to accept it.
+- ok cool
+- i will
+- yop
+- yes please
+- go for it
+- ok i behave now
+- hm, i'd like it
+- ja
+- how nice
+- yay
+- cool
+- that sounds just right
+- perfect
+- yep 
+- yep if i have to
+- amazing
+
+## intent: out_of_scope
+- Hey, i have changed my mind i don't want it
+- Well i won't be giving the answer
+- wait stop
+- you are no help
+- tell me about weather
+- tell me about politics
+- stop asking
+- i don't want to tell you that
+- none of your business
+- don't like that
+- I am not look for it
+- how old are you
+- do you love me
+- i want something else
+- i want pizza
+- please hlp with my ice cream
+- i am hungry
+- restaurants
+- restaurant
+- you're a loser lmao
+- can i be shown a gluten free restaurant
+- i don't care!!!!
+- i do not care how are you again?
+- oh wait i gave you my work email address can i change it?
+- hang on let me find it
+- stop it, i do not care!!!
+- really? you're so touchy?
+- how come?
+- I changed my mind
+- what?
+- did i break you
+- I don't wanna tell the name of my company
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- no stop
+- i want a french restaurant
+- shit bot
+- do you want to marry me?
+- give me food
+- i want food
+- udo, I want to marry you
+- i wanna party
+- shitmuncher
+- I like you
+- i want pizza
+- i want pizza!!
+- silly bot
+- i want to eat
+- you are a stupid bot
+- i hate you
+- Can I ask you questions first?
+- is it a wasteland full of broken robot parts?
+- i can't deal with your request
+- are you vegan
+- who will anser my email?
+- do you sell vacuum robots?
+- i want to buy a roomba for my grandson
+- and make chicken noises into the phone
+- is barbara still married to you
+- what's your wife doing this weekend
+- how are the kids
+- you're rather dull
+- personal or work?
+- are you using Rasa Core and NLU ?
+- tell me a joke
+- what else?
+- I already told you! I'm a shitmuncher
+- I'm a shitmuncher
+- who are the engineers at rasa?
+- who are they?
+- can we keep chatting?
+- talk to me
+- who is your favourite robot?
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- you will know it from the single red rose it carries between its teeth
+- i will tame a mouse for you
+- isn't the newsletter just spam?
+- go back
+- can you help me with the docs?
+- sorry, i cannot rephrase
+- and your REST API doesn't work
+- i told you already
+- better than you
+- oh my god, not again!
+- you are a badass bot!
+- lol
+- why do you need that?
+- is that any of your business
+- can you help me with your docs?
+- i immediately need help with implementing the coolest bot you can imagine
+- can you help me with your docs
+- can you tell me how to build a bot?
+- can you learn from our conversation?
+- common, just try
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- you are annoying
+- Do I have to accept?
+- Is Rasa really smart?
+- kannst du auch deutsch?
+- are the newsletter worth the subscription?
+- it's a pity
+- i want more of you in my life!
+- the one that is better than you
+- you suck
+- bots are bad
+- i dont like bots
+- do you have a phone number?
+- where do you live?
+- how are akela's cats doing?
+- but I just told you that 
+- Why don’t you answer?
+- But you're an english site 
+- can you help me to build a bot
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- uh no
+- no thanks
+- nope
+- no this does not apply to me
+- no thank yous
+- not
+- dont
+- don't
+- please no
+- no please
+- never
+- don't do
+- take back
+- oppose
+- invalid
+- contradict
+- not too good
+- it is too bad
+- that is bad
+- well too bad
+- not so good
+- it is not good
+- no good
+- bad very bad
+- that's not good enough
+- that's lame
+- that was horrible
+- no problem
+- cancel
+- cancel cancel
+- stop
+- no stop
+- no way
+- i decline
+- deny
+- nevermind
+- never mind
+- i don't want to give it to you
+- nah
+- no sorry
+- no and no again
+- definitely not
+- absolutely not
+- nah not for me
+- no!!!!!!
+- i am not sure
+- niether of these
+- i don't want to
+- is this the best you can do
+
+
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+- who are you?
+- are you a chatbot?
+- are you a robot?
+- are you a program?
+- are you a just a bot
+- are you a just bot?
+- you are chatbot
+
+
+## intent:greet
+- hi
+- HI
+- Hey
+- Hey, there
+- Hello, there
+- hey
+- good afternoon
+- howdy
+- hi bot
+- hello bot
+- hey bro
+- hi bro
+- hey whatsup
+- bonjour
+- salve
+- ola
+- konnichwa
+- nin hao
+- hallo
+- hello ji
+- namaste
+- hoi
+- god dag
+- hei
+- yasou
+- namaskar
+- vanakkam
+- aloha
+- kem cho
+- dev boro dis dium
+- assalam u alaikum
+- salam
+- prannam
+- namaskaram
+- namascara
+- nomoshkar
+- nomoskaar
+- chibai
+- satsriakaal
+- good morning
+- good evening
+- hey there
+- radhe-radhe
+- helo
+- namasy
+- hello it is me again
+- hi there it's me
+- hey, let's talk
+- hey let's talk
+- hey dude
+- hiihii
+- hello is anybody there
+- hi again 
+- hello again
+- Hi bot
+- heys
+
+## intent: thanks
+- OK thanks
+- Thank you
+- Thanks
+- thank you so much
+- thanks
+- thank you
+- tnx
+- thank you so much
+- ok thank you
+- yes thank you
+- yes thanks
+- thank for your help
+- thank you again
+- thanks again
+- alright thank you
+- well thank you
+- no thank you that’s all
+- alright thanks
+- perfect thank you
+- alright thank you
+- well thanks
+- nice thank you
+- terrific thank you
+- great thank you
+- i thank you
+- many thanks
+- thank you for everything
+- thanks a million
+- thank you for telling
+- i thank you from bottom of heart
+- thank you for helping me
+- you are great
+- thanks a bunch
+- dankie
+- danke
+- dhanyavaad
+- dhanywaad
+- danyavad
+- dannvaad
+- nandri
+- danyavaadagalu
+- aabar
+- bahoot dhanbaad
+- grazie
+- shukran
+- shukriya
+- merci
+- toda
+- sukria
